@@ -2,8 +2,8 @@
   <!-- Yay mark: a figure raising its arms in a cheer ("Yay!"), whose body is a pen nib (ရေး, "write"). -->
   <defs>
     <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#C78F6E"/>
-      <stop offset="1" stop-color="#9E5A3C"/>
+      <stop offset="0" stop-color="#F0925A"/>
+      <stop offset="1" stop-color="#CF5F28"/>
     </linearGradient>
     <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#fff" stop-opacity=".26"/>
@@ -18,5 +18,5 @@
     <path d="M28.9 31.4h6.2l-1.7 14.1c-.2 1.7-2.6 1.7-2.8 0Z"/>
     <circle cx="32" cy="15.4" r="2.7"/>
   </g>
-  <path d="M32 35.2v6.4" stroke="#9E5A3C" stroke-opacity=".55" stroke-width="1.1" stroke-linecap="round"/>
+  <path d="M32 35.2v6.4" stroke="#CF5F28" stroke-opacity=".55" stroke-width="1.1" stroke-linecap="round"/>
 </svg>
